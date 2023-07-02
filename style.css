@@ -1,5 +1,14 @@
 body {
-    background-image: url(https://deltiasgaming.com/wp-content/uploads/2023/03/Starfield-First-Steps-Wallpaper.jpg);
+    color: lightslategray;
+    background-image: url(https://images2.minutemediacdn.com/image/fetch/w_850,h_560,c_fill,g_auto,f_auto/https%3A%2F%2Fapptrigger.com%2Ffiles%2F2022%2F07%2FStarfield-1-850x560.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro {
+    background-color: black;
+    border: gold;
+    border-style: inset;
 }
 
 .clock {
